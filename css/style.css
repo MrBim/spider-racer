@@ -1,0 +1,20 @@
+.logo{
+	position: absolute;
+}
+.demo{
+	border:1px solid black;
+	width: 1180px;
+}
+
+.spider1{
+	top : 35px;
+}
+.spider2{
+	top : 115px;
+}
+.spider3{
+	top : 195px;
+}
+.spider4{
+	top : 275px;
+}
